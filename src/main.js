@@ -4,6 +4,7 @@
  * @date 2019-06-12
 */
 import Vue from 'vue'
+import './cube-ui'
 import App from './App.vue'
 import axios from 'axios'
 import VueAxios from 'vue-axios'
