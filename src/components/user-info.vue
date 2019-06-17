@@ -1,13 +1,17 @@
 <template>
     <div class="wraper">
         <div class="user-info">账户余额：5000</div>
-        <div class="user-info">用户：创造之</div>
+        <div v-if="type === 'index'" class="user-info">用户：创造之</div>
+        <router-link to="/" v-if="type === 'game'" class="user-info">余额充值 -></router-link>
     </div>
 </template>
 
 <script>
     export default {
-        name: "user-info"
+        name: "user-info",
+        props: {
+            type: String,
+        },
     }
 </script>
 

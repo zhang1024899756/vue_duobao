@@ -8,7 +8,7 @@
             <AroundBox></AroundBox>
         </div>
         <div class="user-info">
-            <UserInfo></UserInfo>
+            <UserInfo type="index"></UserInfo>
         </div>
     </div>
 </template>
@@ -70,7 +70,7 @@
         height: 100vh;
         padding: 10px;
         //background-color: #eca851;
-        background-image: linear-gradient(to bottom right, #ec6a08, #eca851);
+        background-image: linear-gradient(to bottom right, #ce6708, #feba51);
         position: relative;
     }
 </style>

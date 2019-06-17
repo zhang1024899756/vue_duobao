@@ -2,757 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fd82d50-97c4-4a9a-a14b-e1b347ab44ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/duobao_logo_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/around-box.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/text-marquee.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user-info.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/game.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/game-table.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pay-info-model.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/rule-model.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1407b8e004956ace88d9584d611116c9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1407b8e004956ace88d9584d611116c9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3701c21d00f5a9ee57dadcc2083be94c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3701c21d00f5a9ee57dadcc2083be94c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5ae9ca181fa8284f8a758bd890165cf7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5ae9ca181fa8284f8a758bd890165cf7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/78c43bb6edc2d0c0a492c5a3b7233938.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/78c43bb6edc2d0c0a492c5a3b7233938.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/991c045d0e0937c926e41dc8c048e404.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/991c045d0e0937c926e41dc8c048e404.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/992cc6ffb78557dfc275290b64affdc8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/992cc6ffb78557dfc275290b64affdc8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/cc273045f34d00060ec378abebe27144.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/cc273045f34d00060ec378abebe27144.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e18408c3c401e8300249544e3f4b23ac.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e18408c3c401e8300249544e3f4b23ac.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e96cf98de59a8d998c30037c2b206b4e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e96cf98de59a8d998c30037c2b206b4e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-modules/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-modules/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-modules/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-modules/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-modules/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-modules/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-modules/test/invalidTransform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-modules/test/tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-modules/test/transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/concat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/copy-within.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/entries.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/every.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/fill.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/filter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/find-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/find.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/for-each.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/from.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/includes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/index-of.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/join.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/last-index-of.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/of.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/pop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/push.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/reduce-right.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/reduce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/reverse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/shift.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/slice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/some.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/splice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/unshift.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/values.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/asap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/clear-immediate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/error/is-error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/get-iterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/is-iterable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/json/stringify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/acosh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/asinh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/atanh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/cbrt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/clz32.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/cosh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/expm1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/fround.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/hypot.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/iaddh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/imul.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/imulh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/isubh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/log10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/log1p.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/log2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/sign.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/sinh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/tanh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/trunc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/math/umulh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/number/epsilon.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/number/is-finite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/number/is-integer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/number/is-nan.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/number/is-safe-integer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/number/max-safe-integer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/number/min-safe-integer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/number/parse-float.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/number/parse-int.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/assign.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/create.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/define-properties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/define-property.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/entries.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/freeze.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/get-own-property-descriptor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/get-own-property-descriptors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/get-own-property-names.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/get-own-property-symbols.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/get-prototype-of.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/is-extensible.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/is-frozen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/is-sealed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/prevent-extensions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/seal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/set-prototype-of.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/object/values.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/observable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/promise.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/apply.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/construct.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/define-metadata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/define-property.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/delete-metadata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/delete-property.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/enumerate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/get-metadata-keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/get-metadata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/get-own-metadata-keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/get-own-metadata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/get-own-property-descriptor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/get-prototype-of.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/has-metadata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/has-own-metadata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/has.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/is-extensible.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/metadata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/own-keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/prevent-extensions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/set-prototype-of.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/reflect/set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/regexp/escape.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/set-immediate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/at.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/code-point-at.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/ends-with.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/from-code-point.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/includes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/match-all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/pad-end.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/pad-left.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/pad-right.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/pad-start.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/raw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/repeat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/starts-with.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/trim-end.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/trim-left.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/trim-right.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/trim-start.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/string/trim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/async-iterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/for.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/has-instance.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/is-concat-spreadable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/iterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/key-for.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/match.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/observable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/replace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/species.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/split.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/to-primitive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/to-string-tag.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/symbol/unscopables.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/system/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/weak-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/weak-set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_async-generator-delegate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_async-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_async-iterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_async-to-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_class-call-check.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_create-class.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_define-enumerable-properties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_define-property.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_extends.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_inherits.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_instanceof.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_interop-require-default.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_interop-require-wildcard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_jsx.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_new-arrow-check.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_object-destructuring-empty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_object-without-properties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_possible-constructor-return.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_self-global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_sliced-to-array-loose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_sliced-to-array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_tagged-template-literal-loose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_tagged-template-literal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_temporal-ref.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_temporal-undefined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_to-array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_to-consumable-array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/_typeof.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/async-generator-delegate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/async-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/async-iterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/async-to-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/asyncGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/asyncGeneratorDelegate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/asyncIterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/asyncToGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/class-call-check.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/classCallCheck.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/create-class.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/createClass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/define-enumerable-properties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/define-property.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/defineEnumerableProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/defineProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/extends.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/inherits.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/instanceof.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/interop-require-default.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/interop-require-wildcard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/interopRequireDefault.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/interopRequireWildcard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/jsx.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/new-arrow-check.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/newArrowCheck.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/object-destructuring-empty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/object-without-properties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/objectDestructuringEmpty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/objectWithoutProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/possible-constructor-return.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/possibleConstructorReturn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/self-global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/selfGlobal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/sliced-to-array-loose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/sliced-to-array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/slicedToArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/slicedToArrayLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/tagged-template-literal-loose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/tagged-template-literal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/taggedTemplateLiteral.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/taggedTemplateLiteralLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/temporal-ref.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/temporal-undefined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/temporalRef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/temporalUndefined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/to-array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/to-consumable-array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/toArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/toConsumableArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/typeof.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/node_modules/regenerator-runtime/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/node_modules/regenerator-runtime/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/node_modules/regenerator-runtime/path.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/node_modules/regenerator-runtime/runtime-module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/node_modules/regenerator-runtime/runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/regenerator/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/README_zh-CN.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/dist/bscroll.esm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/dist/bscroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/dist/bscroll.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/inifinity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/mouse-wheel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/pulldown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/pullup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/scrollbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/snap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/wheel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/scroll/zoom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/util/const.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/util/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/util/dom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/util/ease.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/util/env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/util/lang.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/util/momentum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/src/util/raf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/sort-arrow-sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/sorter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/index.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/core.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/event.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/inifinity.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/init.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/mouse-wheel.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/pulldown.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/pullup.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/scrollbar.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/snap.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/wheel.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/scroll/zoom.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/util/const.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/util/debug.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/util/dom.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/util/ease.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/util/env.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/util/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/util/lang.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/util/momentum.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov-report/src/util/raf.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/coverage/lcov.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/features/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/features/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/features/pull.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/features/scroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/features/snap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/features/wheel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/modules/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/modules/dom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/modules/ease.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/modules/lang.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/modules/momentum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/specs/modules/raf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/test/unit/utils/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/types/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/types/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/better-scroll/types/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/action-sheet/action-sheet.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/action-sheet/action-sheet.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/action-sheet/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/action-sheet/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/better-scroll/better-scroll.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/better-scroll/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/button/button.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/button/button.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/button/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/button/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/cascade-picker/cascade-picker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/cascade-picker/cascade-picker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/cascade-picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/cascade-picker/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checkbox-group/checkbox-group.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checkbox-group/checkbox-group.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checkbox-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checkbox-group/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checkbox/checkbox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checkbox/checkbox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checkbox/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checkbox/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checker/checker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checker/checker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/checker/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/create-api/create-api.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/create-api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/cube.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/cube.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/date-picker/date-picker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/date-picker/date-picker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/date-picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/date-picker/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/dialog/dialog.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/dialog/dialog.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/dialog/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/dialog/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/drawer/drawer.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/drawer/drawer.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/drawer/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/drawer/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/fonts/cubeic.dcc2b6f.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/form/form.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/form/form.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/form/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/form/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/image-preview/image-preview.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/image-preview/image-preview.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/image-preview/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/image-preview/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/index-list/index-list.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/index-list/index-list.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/index-list/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/index-list/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/input/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/input/input.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/input/input.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/input/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/loading/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/loading/loading.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/loading/loading.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/loading/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/locale/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/locale/locale.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/picker/picker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/picker/picker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/picker/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/popup/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/popup/popup.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/popup/popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/popup/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/radio-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/radio-group/radio-group.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/radio-group/radio-group.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/radio-group/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/radio/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/radio/radio.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/radio/radio.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/radio/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/rate/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/rate/rate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/rate/rate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/rate/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/recycle-list/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/recycle-list/recycle-list.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/recycle-list/recycle-list.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/recycle-list/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll-nav-bar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll-nav-bar/scroll-nav-bar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll-nav-bar/scroll-nav-bar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll-nav-bar/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll-nav/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll-nav/scroll-nav.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll-nav/scroll-nav.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll-nav/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll/scroll.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll/scroll.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/scroll/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/segment-picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/segment-picker/segment-picker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/segment-picker/segment-picker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/segment-picker/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/select/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/select/select.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/select/select.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/select/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/slide/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/slide/slide.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/slide/slide.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/slide/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/sticky/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/sticky/sticky.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/sticky/sticky.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/sticky/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/style/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/style/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/style/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/style/style.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/swipe/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/swipe/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/swipe/swipe.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/swipe/swipe.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/switch/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/switch/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/switch/switch.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/switch/switch.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tab-bar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tab-bar/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tab-bar/tab-bar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tab-bar/tab-bar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tab-panels/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tab-panels/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tab-panels/tab-panels.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tab-panels/tab-panels.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/textarea/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/textarea/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/textarea/textarea.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/textarea/textarea.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/time-picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/time-picker/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/time-picker/time-picker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/time-picker/time-picker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tip/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tip/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tip/tip.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/tip/tip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/toast/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/toast/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/toast/toast.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/toast/toast.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/toolbar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/toolbar/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/toolbar/toolbar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/toolbar/toolbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/upload/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/upload/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/upload/upload.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/upload/upload.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/validator/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/validator/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/validator/validator.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/lib/validator/validator.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/create-api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/dom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/ease.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/instantiate-component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/raf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/string-template.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/validator/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/validator/language/chinese.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/validator/language/english.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/validator/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/validator/rules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/helpers/validator/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/icon/cube-icon.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/icon/cubeic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/icon/cubeic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/lang/date.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/lang/string.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/locale/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/mixins/basic-picker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/mixins/deprecated.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/mixins/input.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/mixins/locale.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/mixins/picker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/mixins/popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/mixins/scroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/mixins/visibility.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/stylus/base.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/stylus/index.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/stylus/mixin.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/stylus/reset.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/stylus/theme/default.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/stylus/var/box-shadow.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/stylus/var/color.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/stylus/var/size.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/common/stylus/variable.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/action-sheet/action-sheet.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/bubble/bubble.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/button/button.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/cascade-picker/cascade-picker.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/checkbox-group/checkbox-group.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/checkbox/checkbox.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/checker/checker-item.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/checker/checker.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/date-picker/date-picker.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/dialog/dialog.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/drawer/drawer-item.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/drawer/drawer-panel.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/drawer/drawer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/components.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/fields/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/fields/props.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/fields/reset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/fields/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/fields/validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/form-group.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/form-item.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/form.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/layouts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/form/mixin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/image-preview/image-preview.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/index-list/index-list-group.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/index-list/index-list-item.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/index-list/index-list.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/input/input.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/loading/loading.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/picker/picker.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/popup/popup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/radio/radio-group.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/radio/radio.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/rate/evaluation_icon_star@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/rate/evaluation_icon_star@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/rate/evaluation_icon_star_gray@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/rate/evaluation_icon_star_gray@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/rate/rate-item.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/rate/rate.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/recycle-list/recycle-list.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/scroll-nav-bar/scroll-nav-bar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/scroll-nav/scroll-nav-panel.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/scroll-nav/scroll-nav.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/scroll/scroll.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/segment-picker/segment-picker.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/select/select.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/slide/slide-item.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/slide/slide.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/sticky/sticky-ele.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/sticky/sticky.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/swipe/swipe-item.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/swipe/swipe.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/switch/switch.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/tab-bar/tab-bar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/tab-bar/tab.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/tab-panels/tab-panel.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/tab-panels/tab-panels.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/textarea/textarea.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/time-picker/time-picker.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/tip/tip.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/toast/toast.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/toolbar/toolbar-item.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/toolbar/toolbar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/upload/ajax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/upload/btn-mixin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/upload/btn.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/upload/file.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/upload/upload.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/upload/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/components/validator/validator.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/locale/lang/en-US.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/locale/lang/zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/action-sheet/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/action-sheet/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/better-scroll/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/button/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/cascade-picker/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/cascade-picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/checkbox-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/checkbox/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/checker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/create-api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/date-picker/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/date-picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/dialog/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/dialog/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/drawer/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/form/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/image-preview/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/image-preview/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/index-list/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/input/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/loading/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/locale/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/picker/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/popup/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/popup/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/radio-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/radio/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/rate/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/recycle-list/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/scroll-nav-bar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/scroll-nav/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/scroll/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/segment-picker/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/segment-picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/select/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/slide/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/sticky/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/style/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/swipe/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/switch/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/tab-bar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/tab-panels/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/textarea/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/time-picker/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/time-picker/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/tip/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/toast/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/toast/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/toolbar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/upload/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/src/modules/validator/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/types/component.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/types/cube-ui.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cube-ui/types/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/load-pkg-config/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/load-pkg-config/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/load-pkg-config/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/load-pkg-config/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/load-pkg-config/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash.camelcase/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash.camelcase/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash.camelcase/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash.camelcase/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash.snakecase/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash.snakecase/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash.snakecase/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash.snakecase/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve-pkg/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve-pkg/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve-pkg/node_modules/resolve-from/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve-pkg/node_modules/resolve-from/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve-pkg/node_modules/resolve-from/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve-pkg/node_modules/resolve-from/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve-pkg/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve-pkg/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/fully/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/fully/template/src/cube-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/partly/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/partly/template/src/cube-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/rem/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/theme/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/theme/template/src/theme.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/generator/vw/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/meta.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-cli-plugin-cube-ui/prompts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-create-api/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-create-api/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-create-api/dist/vue-create-api.esm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-create-api/dist/vue-create-api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-create-api/dist/vue-create-api.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-create-api/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-create-api/types/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-create-api/types/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-post-compile-plugin/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-post-compile-plugin/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-post-compile-plugin/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-post-compile-plugin/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-transform-modules-plugin/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-transform-modules-plugin/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-transform-modules-plugin/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-transform-modules-plugin/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-transform-modules-plugin/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/66c95727e82697f6ffd71632914e8479.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/66c95727e82697f6ffd71632914e8479.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/88424241aad3fff3c65ac2b3c4cbf465.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/88424241aad3fff3c65ac2b3c4cbf465.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8c1f12410bbb3a2cd1bc97124c52efe8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8c1f12410bbb3a2cd1bc97124c52efe8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/96e98404c14fd2e6ea0a42f7c992e0b8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/96e98404c14fd2e6ea0a42f7c992e0b8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d2a487cef3fe5cd53a4de22989bd5576.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d2a487cef3fe5cd53a4de22989bd5576.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1fd91008e98371465c752a964b0b5a17.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1fd91008e98371465c752a964b0b5a17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/29e31f06e0017c76d78cdd478e207e3c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/29e31f06e0017c76d78cdd478e207e3c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/332047b700b6f4c4a87879f2f978e2ff.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/332047b700b6f4c4a87879f2f978e2ff.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/37144499ae4fa2d23799e592a33d5aa9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/37144499ae4fa2d23799e592a33d5aa9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/44fc2e131564a448fed07bc88361cda6.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/44fc2e131564a448fed07bc88361cda6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/487e419323094f4ec84c8fd81b3ed8ad.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/487e419323094f4ec84c8fd81b3ed8ad.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/543093d9a3bcfdebd96648a15545a320.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/543093d9a3bcfdebd96648a15545a320.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6217ae2f448b894fbba284403ee61553.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6217ae2f448b894fbba284403ee61553.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/634314e4c50bef00526ef4b0107b9709.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/634314e4c50bef00526ef4b0107b9709.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6dde1a7bb15ea5f78be24841f1262ed9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6dde1a7bb15ea5f78be24841f1262ed9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/90df5bd0ccac4eae600437f7c323c663.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/90df5bd0ccac4eae600437f7c323c663.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a8b46dc807d22a17e41107060248e9d8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a8b46dc807d22a17e41107060248e9d8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b2451c0a0cddbe727ad3222ad55944ee.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b2451c0a0cddbe727ad3222ad55944ee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f060df5b8410da66747e3ac173632e21.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f060df5b8410da66747e3ac173632e21.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/common.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cube-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/user-info.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user-info.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/game.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/game.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -765,14 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/around-box.vue">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="111" column="5" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
-              <folding>
-                <element signature="e#1604#1644#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="207">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -780,8 +56,82 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/game.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state relative-caret-position="194">
+              <caret line="86" column="45" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#1417#1462#0" expanded="true" />
+                <element signature="e#406#430#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/pay-info-model.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/rule-model.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="724">
+              <caret line="34" column="70" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+              <folding>
+                <element signature="e#73#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/user-info.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="72" column="75" selection-start-line="72" selection-start-column="59" selection-end-line="72" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/around-box.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+              <folding>
+                <element signature="e#1706#1746#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -791,8 +141,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="Vue Single File Component" />
       </list>
     </option>
@@ -809,24 +159,29 @@
         <option value="$PROJECT_DIR$/src/util/index.js" />
         <option value="$PROJECT_DIR$/vue.config.js" />
         <option value="$PROJECT_DIR$/src/api/index.js" />
-        <option value="$PROJECT_DIR$/src/assets/css/common.css" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/AroundBox.vue" />
         <option value="$PROJECT_DIR$/src/App.vue" />
         <option value="$PROJECT_DIR$/src/components/marquee.vue" />
         <option value="$PROJECT_DIR$/src/components/text-marquee.vue" />
-        <option value="$PROJECT_DIR$/src/main.js" />
-        <option value="$PROJECT_DIR$/src/pages/game.vue" />
+        <option value="$PROJECT_DIR$/src/components/around-box.vue" />
         <option value="$PROJECT_DIR$/src/router/index.js" />
         <option value="$PROJECT_DIR$/src/components/user-info.vue" />
-        <option value="$PROJECT_DIR$/src/components/around-box.vue" />
+        <option value="$PROJECT_DIR$/node_modules/vue-numeric-input/src/vue-numeric-input.vue" />
+        <option value="$PROJECT_DIR$/src/components/game-table.vue" />
         <option value="$PROJECT_DIR$/src/pages/index.vue" />
+        <option value="$PROJECT_DIR$/src/components/model.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/assets/css/common.css" />
+        <option value="$PROJECT_DIR$/src/components/rule-model.vue" />
+        <option value="$PROJECT_DIR$/src/pages/game.vue" />
+        <option value="$PROJECT_DIR$/src/components/pay-info-model.vue" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="353" />
-    <option name="y" value="204" />
+    <option name="x" value="466" />
+    <option name="y" value="150" />
     <option name="width" value="1421" />
     <option name="height" value="728" />
   </component>
@@ -846,11 +201,6 @@
             <path>
               <item name="vue_duobao" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue_duobao" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue_duobao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue_duobao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -858,18 +208,6 @@
               <item name="vue_duobao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue_duobao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue_duobao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue_duobao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue_duobao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -920,12 +258,27 @@
       <option name="presentableId" value="Default" />
       <updated>1560314182131</updated>
       <workItem from="1560314184157" duration="18790000" />
-      <workItem from="1560402611145" duration="38109000" />
+      <workItem from="1560402611145" duration="70408000" />
     </task>
+    <task id="LOCAL-00001" summary="6-16">
+      <created>1560621702246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560621702246</updated>
+    </task>
+    <task id="LOCAL-00002" summary="6-16">
+      <created>1560621805694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560621805694</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56899000" />
+    <option name="totallyTimeSpent" value="89198000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -937,10 +290,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="384" y="232" width="1421" height="728" extended-state="0" />
+    <frame x="466" y="150" width="1421" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17714286" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14357142" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -963,6 +316,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6-16" />
+    <option name="LAST_COMMIT_MESSAGE" value="6-16" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
@@ -995,13 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1068,12 +418,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="309">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
-            <element signature="e#73#94#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-tabs-with-active-line/src/entry.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-tabs-with-active-line/dist/vue-tabs-with-active-line.umd.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-tabs-with-active-line/dist/vue-tabs-with-active-line.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-tabs-with-active-line/dist/vue-tabs-with-active-line.esm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="253" column="9" selection-start-line="253" selection-start-column="9" selection-end-line="253" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-tabs-with-active-line/src/VueTabsWithActiveLine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1135">
+          <caret line="506" column="16" selection-start-line="506" selection-start-column="16" selection-end-line="506" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-numeric-input/dist/vue-numeric-input.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-numeric-input/src/vue-numeric-input.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="281" column="20" selection-start-line="281" selection-start-column="20" selection-end-line="281" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/user-info.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="72" column="75" selection-start-line="72" selection-start-column="59" selection-end-line="72" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/around-box.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+          <folding>
+            <element signature="e#1706#1746#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1085,51 +510,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/assets/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/src/components/game-table.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="621">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="n#style#0;n#v-icon#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v-icon#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v-icon#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v-icon#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#!!top" />
+            <element signature="e#433#470#0" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/user-info.vue">
+    <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="414">
+          <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <folding>
+            <element signature="e#73#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue/types/vue.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/game.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="72" column="66" selection-start-line="72" selection-start-column="66" selection-end-line="72" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/around-box.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="111" column="5" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
+        <state relative-caret-position="194">
+          <caret line="86" column="45" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="45" />
           <folding>
-            <element signature="e#1604#1644#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#1417#1462#0" expanded="true" />
+            <element signature="e#406#430#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/rule-model.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="34" column="70" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pay-info-model.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
         </state>
       </provider>
     </entry>
