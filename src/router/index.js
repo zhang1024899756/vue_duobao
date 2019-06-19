@@ -3,6 +3,7 @@ import Router from 'vue-router'
 
 import index from '../pages/index'
 import game from '../pages/game'
+import topup from '../pages/top-up'
 
 Vue.use(Router)
 
@@ -18,6 +19,12 @@ const routes = [
         name: 'game',
         component: game,
         meta: {title: '游戏'},
+    },
+    {
+        path: '/topup',
+        name: 'topup',
+        component: topup,
+        meta: {title: '充值'},
     },
 ]
 

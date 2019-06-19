@@ -44,6 +44,7 @@
     import 'vue-awesome/icons/khanda'
     import RuleModel from '../components/rule-model.vue'
     import PayInfoModel from '../components/pay-info-model.vue'
+    import ServiceModel from '../components/service-model.vue'
     export default {
         name: "game",
         components: {
@@ -95,7 +96,14 @@
             },
             //联系客服
             showManger() {
-                
+                this.$modal.show(ServiceModel,{
+
+                },{
+                    width: '80%',
+                    height: 'auto',
+                },{
+                    draggable: true
+                })
             },
         },
     }
@@ -144,7 +152,6 @@
     .wrap {
         height: 100vh;
         padding: 10px;
-    //background-color: #eca851;
         background-image: linear-gradient(to top , #feba51,#ce6708 );
         position: relative;
     }
